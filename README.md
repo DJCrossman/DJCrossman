@@ -1,6 +1,6 @@
 # Hello there ![wave](https://github.com/DJCrossman/README.md/assets/3226939/43f65016-3466-47a7-883e-68aede141fa6)
 
-My name is David Crossman, and I am the CTO of [Citrus 🍊](https://www.citruscamps.com). I love building products that make an impact and make a difference in the world. I also lead things at [HackRegina 👨‍💻](https://www.hackregina.com), where we aim to create a strong community through meetups, hackathons and our open Slack channel. I enjoy community participation and am open to mentoring new developers. 
+My name is David Crossman, I co-founded [Citrus 🍊](https://www.citruscamps.com), and am enjoying my time tapping on my keyboard at [Sticker Mule 🦄](https://www.stickermule.com/). I love building products that make an impact and make a difference in the world. I also lead things at [HackRegina 👨‍💻](https://www.hackregina.com), where we aim to create a strong community through meetups, hackathons and our open Slack channel. I enjoy community participation and am open to mentoring new developers.
 
 
 [![Website](https://img.shields.io/badge/-Website-blue)](https://www.crossman.io)
